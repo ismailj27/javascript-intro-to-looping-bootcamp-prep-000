@@ -22,5 +22,5 @@ function whileLoop(n) {
 
 
 function doWhileLoop(array) {
- while (){}
+ while (array.length > 0){}
 }
