@@ -25,5 +25,5 @@ function doWhileLoop(array) {
  while (array.length > 0){
    array.pop()
  }
- return
+ return array
 }
